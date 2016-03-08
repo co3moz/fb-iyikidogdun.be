@@ -1,0 +1,20 @@
+{
+  "name": "fb-iyikidogdun.be",
+  "version": "1.0.0",
+  "description": "Arkadaşlarına iyi ki doğdun mesajı at",
+  "main": "src/app.js",
+  "private": true,
+  "keywords": [],
+  "author": "co3moz",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "config": "1.19.0",
+    "ezlogger": "1.5.2",
+    "facebook-chat-api": "1.0.7",
+    "lowdb": "0.12.5",
+    "node-schedule": "1.0.0"
+  }
+}

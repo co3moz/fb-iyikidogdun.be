@@ -1,0 +1,14 @@
+{
+  "email": "xxx@mail.com",
+  "password": "my password",
+  "schedule": "0 */6 * * *",
+  "message": "İyi ki doğdun {fullName}__nextmessage__{randomMessage}__nextmessage__[url]{url}[/url]",
+  "randomMessages": [
+    "Yeni yaşın önce sağlık ve huzur sonra dilediğin tüm mutlulukları getirsin sana nice yıllara…",
+    "Hayatının her döneminde mutlu ve sağlıklı olmanı diliyorum. Tüm hayallerin gerçekleşsin, hayat güneşin her daim seni aydınlatsın. Doğum günün kutlu olsun..",
+    "Kalbin hangi güzel şey için çarpıyorsa, her doğan güneş sana onu getirsin.. Doğum Günün Kutlu Olsun..",
+    "Yılların sormadığı, yolların yormadığı, dostların unutmadığı bir ömür için, bu doğum günün bir başlangıç olsun, yeni yaşın Kutlu olsun.. İyi ki doğdun",
+    "Bugün geride kalan bir yaşını daha doldurmanın mutluluğunu yaşarken geleceğin sana kalbindeki tüm dilekleri vermesini diliyorum. Doğum günün kutlu olsun.",
+    "Güzel bir yaş diliyorum sana. Mutlu bir gelecek. Gülümseyen gözlerinle… İyi ki doğdun. Doğum günün kutlu olsun."
+  ]
+}
