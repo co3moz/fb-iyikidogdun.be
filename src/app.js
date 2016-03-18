@@ -1,6 +1,6 @@
 var login = require("facebook-chat-api");
 var low = require("lowdb");
-var storage = require('lowdb/file-async');
+var storage = require('lowdb/file-sync');
 var schedule = require('node-schedule');
 var ezlogger = require("ezlogger")();
 var config = require("config");
